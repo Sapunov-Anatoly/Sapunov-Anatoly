@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C#-Developer and Future master of engineering from Russia</h3
 
-# To contact me
+# **To contact me**
 * Mail: sanovta@yandex.ru
 * VK: https://vk.com/sapunov252
 * Telegram: @deadinsideonly
